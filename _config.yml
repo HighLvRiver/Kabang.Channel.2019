@@ -2,19 +2,19 @@
 #
 
 # Site settings
-title: 카카오뱅크 채널파트 통합워크샵준비위원회
+title: 카카오뱅크 채널% 통합 워크샵
 description: |
   보이지 않는 것을 보이게 하는
-  카카오뱅크 채널파트 통합 워크샵에
-  Channler 당신을 초대합니다
-owner: kabang Channeler # or company name
+  카카오뱅크 like '채널%' 파트 통합 워크샵에
+  kabang Channler 당신을 초대합니다
+owner: kabang Channel # or company name
 first_published: 2019 # if migrating another site, the year of your first publish
 email: jayden.yoo@kakaobank.com
 baseurl: "/Kabang.Channel.2019" # the subpath of your site, e.g. /blog
 url: "https://highlvriver.github.io/Kabang.Channel.2019/" # the base hostname & protocol for your site
 social:
   #twitter: https://twitter.com/<username>
-  github: https://github.com/highlvriver
+  # github: https://github.com/highlvriver
   #linkedin-square: https://linkedin.com/in/<username>
   #facebook-official: https://facebook.com/<username>
   #google-plus-square: https://plus.google.com/u/0/+<username>

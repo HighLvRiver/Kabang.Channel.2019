@@ -19,9 +19,9 @@
       {% capture diff %}{{ site.first_published | minus:thisyear }}{% endcapture %}
       {% if diff contains '-' %}{{ site.first_published }},{% endif %}
     {% endif %}
-    (문의 : <a href="https://open.kakao.com/o/grXz0Igb">2019 워크샵 고객센터</a>)
     {{ thisyear }}
-    {% if site.owner %}{{ site.owner }}{% else %}{{ site.title }}{% endif %}</li>
+    {% if site.owner %}{{ site.owner }}{% else %}{{ site.title }}{% endif %}</li><br />
+    (문의 : <a href="https://open.kakao.com/o/grXz0Igb">2019 워크샵 고객센터</a>)
     <!-- <li>Design: <a href="http://html5up.net" target="_blank">HTML5 UP</a></li> -->
     <!-- <li>Built with: <a href="http://jekyllrb.com" target="_blank">Jekyll</a></li> -->
   </ul>
